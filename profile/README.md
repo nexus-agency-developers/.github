@@ -12,13 +12,12 @@ Nosso objetivo é fornecer soluções sob medida que ajudem empresas a acelerar 
 
 ## Como Contribuir
 
-Estamos sempre buscando novas ideias e colaborações! Se você quiser contribuir, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*. Para mais informações, consulte nosso [Guia de Contribuição](#).
+Estamos sempre buscando novas ideias e colaborações! Se você quiser contribuir, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*. Para mais informações, consulte nosso [Guia de Contribuição](#) _(link atualmente indisponível)_.
 
 ## Contato
 
-Fique à vontade para entrar em contato conosco pelo [e-mail](mailto:contato@nexusagency.com) ou acompanhar nossos projetos aqui no GitHub.
+Fique à vontade para entrar em contato conosco pelo [e-mail](mailto:contato@nexusagency.com) _(link atualmente indisponível)_ ou acompanhar nossos projetos aqui no GitHub.
 
 ## Licença
 
-Este repositório e todos os projetos da Nexus Agency são licenciados sob a [Licença MIT](#).
-
+Este repositório e todos os projetos da Nexus Agency são licenciados sob a [Licença MIT](#) _(link atualmente indisponível)_.
